@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "CSS variable colors for the Carbon Design System",
   "main": "index.scss",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": "https://github.com/SamuelDW/carbon-colors/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-colors"
   },
   "files": [
     "index.scss"
