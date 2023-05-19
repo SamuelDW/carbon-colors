@@ -1,6 +1,6 @@
 {
   "name": "@kpopfan4life/carbon-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS variable colors for the Carbon Design System",
   "main": "index.scss",
   "bugs": "https://github.com/SamuelDW/carbon-colors/issues",
